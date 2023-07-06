@@ -1,0 +1,53 @@
+[33mcommit 4b12516926922c23d95f9a2e8246b30e46db87f3[m[33m ([m[1;36mHEAD -> [m[1;32mprecode[m[33m)[m
+Author: Павел Зырянов <pav-zyr1@yandex.ru>
+Date:   Thu Jul 6 09:05:11 2023 +0300
+
+    last version blogicum with posts
+
+[33mcommit 3a7741b713fc77740a934161201ccb98b50b1eaf[m[33m ([m[1;31morigin/precode[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Andrey Dubinchik <evil_ghost@bk.ru>
+Date:   Fri Jun 9 15:55:39 2023 +0300
+
+    update pub_date field check (#3)
+
+[33mcommit e7fbac9b0b54b26ebe9f841ac742c0e2251d30f3[m
+Author: Andrey Dubinchik <evil_ghost@bk.ru>
+Date:   Fri Apr 21 17:31:32 2023 +0300
+
+    fix model localization test (#2)
+
+[33mcommit 890c62413b653fd6b2203571c18f1c6ca37aa51e[m
+Author: Andrey Dubinchik <evil_ghost@bk.ru>
+Date:   Wed Apr 19 09:07:46 2023 +0300
+
+    update location processing in templates (#1)
+
+[33mcommit b762d5126219f4bf2731dd4b095dd344dd4427bb[m
+Author: evi1ghost <evil_ghost@bk.ru>
+Date:   Fri Apr 7 10:39:38 2023 +0300
+
+    fix indentations
+
+[33mcommit 5739aaac6fbd1e4c95d5ad19c56c9e113c13ac15[m
+Author: evi1ghost <evil_ghost@bk.ru>
+Date:   Fri Mar 31 14:48:26 2023 +0300
+
+    update tests and templates
+
+[33mcommit 240d08c7b7e66ee15e676999ccbf9eb76d4f655b[m
+Author: evi1ghost <evil_ghost@bk.ru>
+Date:   Sat Mar 18 10:07:23 2023 +0300
+
+    update tests
+
+[33mcommit 3a1e0c9c50df4ffe6e21667fe6d04f9e8fb2d88a[m
+Author: evi1ghost <evil_ghost@bk.ru>
+Date:   Tue Mar 14 12:48:07 2023 +0300
+
+    upload project template
+
+[33mcommit dc902c17b692915980606a80afd6cee1becc52dd[m
+Author: evi1ghost <evil_ghost@bk.ru>
+Date:   Thu Nov 17 14:56:05 2022 +0300
+
+    add precode
