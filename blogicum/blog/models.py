@@ -66,7 +66,6 @@ class Post(BaseModel):
         Category,
         on_delete=models.SET_NULL,
         null=True,
-        blank=True,
         verbose_name='Категория'
     )
 
